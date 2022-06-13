@@ -1,0 +1,11 @@
+#+TITLE:  lexical
+#+AUTHOR: William Santos
+#+EMAIL:  w@wsantos.net
+
+#+ID:       cltk.lexical
+#+LANGUAGE: en
+#+STARTUP:  showall
+
+
+** Lexical analysis
+...

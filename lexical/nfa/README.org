@@ -1,0 +1,11 @@
+#+TITLE:  nfa
+#+AUTHOR: William Santos
+#+EMAIL:  w@wsantos.net
+
+#+ID:       cltk.lexical.nfa
+#+LANGUAGE: en
+#+STARTUP:  showall
+
+
+** Nondeterministic finite state automaton
+...

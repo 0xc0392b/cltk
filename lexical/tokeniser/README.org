@@ -1,0 +1,11 @@
+#+TITLE:  tokeniser
+#+AUTHOR: William Santos
+#+EMAIL:  w@wsantos.net
+
+#+ID:       cltk.lexical.tokeniser
+#+LANGUAGE: en
+#+STARTUP:  showall
+
+
+** Tokenising algorithm using the longest-match strategy
+...

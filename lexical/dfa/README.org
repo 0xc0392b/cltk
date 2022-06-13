@@ -1,0 +1,11 @@
+#+TITLE:  dfa
+#+AUTHOR: William Santos
+#+EMAIL:  w@wsantos.net
+
+#+ID:       cltk.lexical.dfa
+#+LANGUAGE: en
+#+STARTUP:  showall
+
+
+** Deterministic finite state automaton
+...

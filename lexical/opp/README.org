@@ -1,0 +1,11 @@
+#+TITLE:  opp
+#+AUTHOR: William Santos
+#+EMAIL:  w@wsantos.net
+
+#+ID:       cltk.lexical.opp
+#+LANGUAGE: en
+#+STARTUP:  showall
+
+
+** Operator precedence parser
+...

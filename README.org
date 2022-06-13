@@ -1,0 +1,35 @@
+#+TITLE:  cltk
+#+AUTHOR: William Santos
+#+EMAIL:  w@wsantos.net
+
+#+ID:               cltk
+#+LANGUAGE:         en
+#+STARTUP:          showall
+#+EXPORT_FILE_NAME: cltk
+
+
+Computer language toolkit for Go
+
+
+This repository contains a subset of Go modules I wrote for my master's dissertation
+/ final year project - titled "Computer Language Design and Engineering" -  at
+Royal Holloway, University of London.
+
+I intend to release all cltk code as well as my technical writing in the form of
+blog posts @ https://wsantos.io. For now I am holding off until I have 1) finished
+basic documentation and 2) have made things more presentable for public display.
+
+
+** public
+1. lexical analysis
+   + non-deterministic finite state automaton construction
+   + deterministic finite state automaton construction
+   + operator precedence parsing
+   + regular expression engine
+   + full longest-match tokeniser algorithm
+
+
+** not yet public
+1. syntax analysis (recursive descent parser generator)
+2. term rewriting engine
+3. lambda and SKI calculus engines
